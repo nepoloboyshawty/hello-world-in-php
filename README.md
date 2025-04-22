@@ -1,18 +1,18 @@
-# Hello, World! на PHP
+# Hello, World! in PHP
 
-Простой проект для вывода строки **Hello, World!** на языке PHP.
+A simple project to output the string **Hello, World!** in PHP.
 
-## Как запустить
+## How to launch
 
-1. Установите [PHP](https://www.php.net/downloads).
-2. Скачайте файл `index.php`.
-3. В терминале перейдите в папку с файлом.
-4. Выполните команду: php index.php
+1. Install [PHP](https://www.php.net/downloads ).
+2. Download the file `index.php `.
+3. In the terminal, navigate to the file folder.
+4. Run the command: php index.php
 
-## Содержимое
+## Content
 
-- `index.php` — файл с кодом, который выводит строку **Hello, World!**.
+- `index.php ` is a file with a code that outputs the string **Hello, World!**.
 
-## Лицензия
+## License
 
-Проект открыт для изучения и свободного использования.
+The project is open for study and free use.
